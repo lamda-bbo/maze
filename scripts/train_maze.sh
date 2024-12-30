@@ -1,0 +1,1 @@
+python ./human_aware_rl/pbt/maze.py with layout_name="unident" EX_NAME="maze_aa2_pop3" SEEDS="[1000]" ENTROPY_POOL=0.01 PAIR_INTERVAL=5 ARCHIVE_SIZE=20 POPULATION_SIZE=3 DIV_VERSION=2 ADD_ENT_TO_LOSS=1 
